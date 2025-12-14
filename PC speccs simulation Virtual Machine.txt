@@ -1,0 +1,17 @@
+Operating System
+	Windows 11 Home 64-bit
+CPU
+	Intel Core i5 @ 2.50GHz
+	Comet Lake 14nm Technology
+RAM
+	16,0GB
+Motherboard
+	Micro-Star International Co. Ltd. MS-16W2 (U3E1)
+	%1 Chipset
+Graphics
+	Generic PnP Monitor (1920x1080@144Hz)
+	Intel UHD Graphics (MSI)
+	2047MB NVIDIA GeForce RTX 3060 Laptop GPU (MSI)	38 °C
+	SLI Disabled
+Storage
+	476GB KINGSTON OM8PCP3512F-AI1 (SATA-2 (SSD))
